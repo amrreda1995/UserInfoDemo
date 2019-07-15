@@ -8,3 +8,4 @@ This sample demo app is built over:
 * DataBinding
 * Dagger2
 * Room library
+* LiveData
